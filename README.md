@@ -1,2 +1,2 @@
-# class-21
-we created functions from algorithms.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
